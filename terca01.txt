@@ -1,5 +1,4 @@
 Linha 1
-linha 2 - Linha da turma A.
+linha 2 - Linha da turma A e da turma 
 linha 3
 linha 4
-linha 5
